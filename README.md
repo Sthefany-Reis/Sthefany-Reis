@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-🎓 Computer Science with AI @ NTU | 💻 Aspiring Software Engineer | 🤖 AI &amp; Software Development Enthusiast | 🚀 Building, Learning &amp; Creating
+🎓 Computer Science with AI @ NTU | 💻 Aspiring AI/Software Engineer | 🤖 AI &amp; Software Development Enthusiast | 🚀 Building, Learning &amp; Creating
 
-🌱 &nbsp;I'm currently learning **C++, Python, C#, AI, Machine Learning, SQL and Object-Oriented Programming.**
+🌱 &nbsp;I'm currently learning **C++, Python, C#, AI, Machine Learning, Java, SQL and Object-Oriented Programming.**
 
 ### 🛠️ Tech Stack
 
